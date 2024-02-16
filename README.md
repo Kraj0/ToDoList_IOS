@@ -15,3 +15,5 @@ You also need to add packages to your xcodeproject (firebase-ios-sdk):
 -FirebaseAuth
 -FirebaseFirestore
 -FirebaseFirestoreSwift
+
+Application created with help of firebase documentation and iosacademy 
